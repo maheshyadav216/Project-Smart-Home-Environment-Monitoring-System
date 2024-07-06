@@ -54,6 +54,12 @@ Other Sensors and Display Module
 
 🔗 https://wiki.dfrobot.com/SKU_SEN0500_Fermion_Multifunctional_Environmental_Sensor  
 
+🔗 https://wiki.dfrobot.com/Gravity_SGP40_Air_Quality_Sensor_SKU_SEN0394  
+
+🔗 https://wiki.dfrobot.com/SKU_SEN0565_Fermion_MEMS_CH4_Sensor_breakout  
+
+🔗 https://wiki.dfrobot.com/SKU_SEN0570_Fermion_MEMS_Smoke_Sensor_breakout  
+
   
 🔴 Purchase Links -  
 

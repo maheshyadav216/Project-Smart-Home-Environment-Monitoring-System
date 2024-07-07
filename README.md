@@ -43,7 +43,7 @@ Other Sensors and Display Module
 
 📕 **YouTube Video Link**  
 
-▶️ DFRobot FireBeetle 2 ESP32-C6 - Home Environment Monitoring - 🔗 https://youtu.be/  
+▶️ DFRobot FireBeetle 2 ESP32-C6 - Smart Home Environment Monitoring - 🔗 https://youtu.be/LjvL-5gNbCo  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
